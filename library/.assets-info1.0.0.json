@@ -1,0 +1,993 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\cocos\\PlayPiano\\assets\\res.meta": {
+      "time": 1714100837479.8325
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res": {
+      "time": 1714233077393.931,
+      "uuid": "7c69b419-99a8-4bb8-b89f-e61489a9af05"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio.meta": {
+      "time": 1714100862422.0847
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio": {
+      "time": 1714399244228.2332,
+      "uuid": "68f1ac90-a565-4d4c-9a77-388d9de6b6f8"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background.meta": {
+      "time": 1714100881914.488
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background": {
+      "time": 1714272211843.4504,
+      "uuid": "69794de5-096f-46d1-8da9-b852970c3067"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\effect.meta": {
+      "time": 1714100892269.3232
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\effect": {
+      "time": 1714100892259.3494,
+      "uuid": "2b5741df-5add-4e7e-86ac-6ec2a3c38067"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\material.meta": {
+      "time": 1714100900757.6777
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\material": {
+      "time": 1714100900712.638,
+      "uuid": "2a228dab-72b2-4e87-9e85-9d28751568d5"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model.meta": {
+      "time": 1714100910035.462
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model": {
+      "time": 1714370860332.9197,
+      "uuid": "03d8ffee-0f33-4c74-b882-724a5a61b9e9"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\texture.meta": {
+      "time": 1714100920431.4326
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\texture": {
+      "time": 1714100920404.4722,
+      "uuid": "c32b4a96-8c35-43ff-9961-460d8fb6e515"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\11.mp3.meta": {
+      "time": 1714357531498.8215
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\11.mp3": {
+      "time": 1712920853630.1658,
+      "uuid": "41036e40-9ee8-4f54-9f72-70b999070348"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\12.mp3.meta": {
+      "time": 1714357531500.7878
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\12.mp3": {
+      "time": 1712920853804.5825,
+      "uuid": "1f50c3af-c5f5-4d77-8bce-cb8cba6f1e15"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\13.mp3.meta": {
+      "time": 1714357531534.6985
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\13.mp3": {
+      "time": 1712920853947.1843,
+      "uuid": "de0a61a3-15bf-4836-a773-5053f1c681d5"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\14.mp3.meta": {
+      "time": 1714357531547.669
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\14.mp3": {
+      "time": 1712920854087.808,
+      "uuid": "71cc7e6c-af04-47b9-ba93-08dea3e596a2"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script.meta": {
+      "time": 1714101440598.1982
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script": {
+      "time": 1714233589212.6577,
+      "uuid": "21af0969-4438-4981-a14d-f2cd573dc778"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\framework.meta": {
+      "time": 1714107611378.235
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\framework": {
+      "time": 1714230517145.4556,
+      "uuid": "cffc3890-eb35-4d7f-aeb7-859d9c7cdc6b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene.meta": {
+      "time": 1714112532503.761
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene": {
+      "time": 1714441463109.535,
+      "uuid": "5b762e73-6bcb-4085-8bfa-ca10e81b54ee"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\chellenge.scene.meta": {
+      "time": 1714112532623.4412
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\chellenge.scene": {
+      "time": 1714443392516.8816,
+      "uuid": "c8191e62-4f8a-44a6-9cce-7f8d1d0a7daa"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\6.mp3.meta": {
+      "time": 1714357531549.659
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\6.mp3": {
+      "time": 1712921491917.8623,
+      "uuid": "578cd5d7-794a-4053-a73b-8727a36f526b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\Excel.meta": {
+      "time": 1714149019135.3071
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\Excel": {
+      "time": 1714286751636.062,
+      "uuid": "2a08d41c-b869-408c-b6fa-c39489ace6ba"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\Excel\\曲谱.csv.meta": {
+      "time": 1714222666164.609
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\Excel\\曲谱.csv": {
+      "time": 1714286669668.1792,
+      "uuid": "bf4c73f8-0d85-497e-9e93-5ca86b1a2afd"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\exercise.scene.meta": {
+      "time": 1714223147978.4204
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\exercise.scene": {
+      "time": 1714224867916.572,
+      "uuid": "b867282e-c43b-497f-822d-1a1a3299d2a5"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\free.scene.meta": {
+      "time": 1714223597648.2544
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\free.scene": {
+      "time": 1714223597636.2747,
+      "uuid": "395a6332-9dc0-4773-b9bb-f8210812d987"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background\\background.jpg.meta": {
+      "time": 1714223853922.6538
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background\\background.jpg": {
+      "time": 1714223805876.2373,
+      "uuid": "56a3170d-4e1c-4110-8233-4254f13eef6e"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background\\popbackground.png.meta": {
+      "time": 1714223982919.4668
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background\\popbackground.png": {
+      "time": 1710340182866.1958,
+      "uuid": "149336ed-8e32-4236-8018-c135374bc03a"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\framework\\GameManager.ts.meta": {
+      "time": 1714225306500.419
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\framework\\GameManager.ts": {
+      "time": 1714451434165.5288,
+      "uuid": "b59fa82d-68db-4489-a115-ac6bb8c1d6bd"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\library.meta": {
+      "time": 1714226369415.664
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\library": {
+      "time": 1714229006617.1506,
+      "uuid": "3d83ff87-38fe-4cbb-af61-8c30d808abb9"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\keys.meta": {
+      "time": 1714226668875.0706
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\keys": {
+      "time": 1714226672057.308,
+      "uuid": "975459fc-4158-4595-9699-677fd3ba3b80"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\keys\\key.ts.meta": {
+      "time": 1714101709960.3174
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\keys\\key.ts": {
+      "time": 1714395890604.5144,
+      "uuid": "a7400e23-b3af-4dba-b6d0-2a92f4e8e33b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\framework\\Constant.ts.meta": {
+      "time": 1714230517165.4019
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\framework\\Constant.ts": {
+      "time": 1714395035104.131,
+      "uuid": "69a23be1-ce2c-411e-8d12-34b41dae780b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui.meta": {
+      "time": 1714232499451.1929
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui": {
+      "time": 1714233090059.7483,
+      "uuid": "5941d55c-d66c-46ab-a4e9-ebfadcced1c8"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode.meta": {
+      "time": 1714232522813.1086
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode": {
+      "time": 1714398325500.0461,
+      "uuid": "af87e586-bff6-4fe8-b0a2-ba2c3f7c949d"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\note.jpg.meta": {
+      "time": 1714232744855.6074
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\note.jpg": {
+      "time": 1713370832236.9727,
+      "uuid": "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\prefab.meta": {
+      "time": 1714233077405.943
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\prefab": {
+      "time": 1714442080341.784,
+      "uuid": "6121930f-db14-4fe8-90d1-8cbb0422d8c6"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui.meta": {
+      "time": 1714233589230.6213
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui": {
+      "time": 1714446301580.2666,
+      "uuid": "ddc85660-ccc8-4caf-a3fa-ac8865ae7619"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\wordback.ts.meta": {
+      "time": 1714233600233.015
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\wordback.ts": {
+      "time": 1714272704466.302,
+      "uuid": "8f17eb5c-f047-4ca9-a92a-e6551bac347b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\9.jpg.meta": {
+      "time": 1714236665761.9556
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\10.jpg.meta": {
+      "time": 1714236665804.8396
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\13.jpg.meta": {
+      "time": 1714236665827.779
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\14.jpg.meta": {
+      "time": 1714236665873.6555
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\12.jpg.meta": {
+      "time": 1714236665953.4426
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\11.jpg.meta": {
+      "time": 1714236665994.3323
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\9.jpg": {
+      "time": 1713370832236.9727,
+      "uuid": "01684285-cd9b-45e1-b483-bb312ab4ffda"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\10.jpg": {
+      "time": 1713370832280.8203,
+      "uuid": "37974fb4-c45c-4430-bbf4-1a7c88576a00"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\13.jpg": {
+      "time": 1713370832285.8096,
+      "uuid": "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\14.jpg": {
+      "time": 1713370832287.8047,
+      "uuid": "9bd12250-4f39-4de2-9084-a92e76e3e59c"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\12.jpg": {
+      "time": 1713370832282.8174,
+      "uuid": "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\11.jpg": {
+      "time": 1713370832281.8162,
+      "uuid": "7fdc6ec8-3125-4b8d-876f-454c87c982e1"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background\\background3.jpg.meta": {
+      "time": 1714272211905.2334
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\background\\background3.jpg": {
+      "time": 1714272086209.4563,
+      "uuid": "cd66cf38-a797-409a-8197-6ca1a89d0a09"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\prefab\\wordback.prefab.meta": {
+      "time": 1714272459488.1526
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\prefab\\wordback.prefab": {
+      "time": 1714392025816.2246,
+      "uuid": "9f673e80-f7ff-4092-b7c5-7f6186cc2315"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\whitepaper.png.meta": {
+      "time": 1714273124952.6074
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\whitepaper.png": {
+      "time": 1706978841525.5684,
+      "uuid": "a61e2c22-5687-45ea-b4de-334277e23958"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\word.ts.meta": {
+      "time": 1714280494422.3396
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\word.ts": {
+      "time": 1714291187464.0088,
+      "uuid": "667c8e69-855b-4652-bde6-290ba8cc17f3"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\Excel\\歌词.csv.meta": {
+      "time": 1714285943911.643
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\Excel\\歌词.csv": {
+      "time": 1714285915936.672,
+      "uuid": "1a265cb8-f76e-409f-a5b1-76fc80bdcc04"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\2.jpg.meta": {
+      "time": 1714286908962.0344
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\1.jpg.meta": {
+      "time": 1714286908974.007
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\3.jpg.meta": {
+      "time": 1714286908964.0405
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\4.jpg.meta": {
+      "time": 1714286908969.0188
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\6.jpg.meta": {
+      "time": 1714286908977.996
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\7.jpg.meta": {
+      "time": 1714286909008.9133
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\5.jpg.meta": {
+      "time": 1714286909017.889
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\2.jpg": {
+      "time": 1713370758709.3645,
+      "uuid": "17dbd477-b854-4362-bb6f-be59a460fd4a"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\3.jpg": {
+      "time": 1713370758729.517,
+      "uuid": "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\4.jpg": {
+      "time": 1713370758729.517,
+      "uuid": "3971c476-168c-48ca-91d1-1ec7baadd8f9"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\1.jpg": {
+      "time": 1713370758709.0715,
+      "uuid": "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\6.jpg": {
+      "time": 1713370758731.513,
+      "uuid": "8f91121a-4970-41ee-9f37-0c7264c2adc5"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\7.jpg": {
+      "time": 1713370758732.5088,
+      "uuid": "10102eea-0961-474e-9255-b6c7e520228e"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\5.jpg": {
+      "time": 1713370758731.513,
+      "uuid": "1484f5fa-3434-41f5-9a10-254945d59110"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\8.jpg.meta": {
+      "time": 1714286918774.5894
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\8.jpg": {
+      "time": 1713370832236.9727,
+      "uuid": "42d8258e-a5b1-4ecd-8129-7f9b96918fb2"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\1.mp3.meta": {
+      "time": 1714357532229.1685
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\10.mp3.meta": {
+      "time": 1714357532252.1028
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\15.mp3.meta": {
+      "time": 1714357532230.1602
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\16.mp3.meta": {
+      "time": 1714357532249.1099
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\17.mp3.meta": {
+      "time": 1714357532254.0964
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\18.mp3.meta": {
+      "time": 1714357532397.7185
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\19.mp3.meta": {
+      "time": 1714357532388.7375
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\2.mp3.meta": {
+      "time": 1714357532387.739
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\20.mp3.meta": {
+      "time": 1714357532387.739
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\21.mp3.meta": {
+      "time": 1714357532394.7205
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\3.mp3.meta": {
+      "time": 1714357532477.6328
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\4.mp3.meta": {
+      "time": 1714357532570.3765
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\5.mp3.meta": {
+      "time": 1714357532569.3792
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\7.mp3.meta": {
+      "time": 1714357532597.3047
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\8.mp3.meta": {
+      "time": 1714357532592.3176
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\9.mp3.meta": {
+      "time": 1714357532678.558
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\1.mp3": {
+      "time": 1712921490417.7903,
+      "uuid": "ed16b894-cac0-4b89-ac3f-12a246ff8cae"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\15.mp3": {
+      "time": 1712921492940.0017,
+      "uuid": "0623630e-f71f-4a70-a257-3f201cd7e934"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\16.mp3": {
+      "time": 1712921493220.65,
+      "uuid": "5434f272-80bb-479e-b6bf-9af39babf6d8"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\10.mp3": {
+      "time": 1712920853491.0186,
+      "uuid": "54dcb96e-8143-45a1-95e3-1ca6baa65e0c"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\17.mp3": {
+      "time": 1712921493531.4648,
+      "uuid": "7ec855f1-e5c9-4eab-ae0d-1ebb1fa917dc"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\2.mp3": {
+      "time": 1712921490680.2883,
+      "uuid": "fcc93361-cbc8-48ff-b0fc-dd5e0774eb44"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\20.mp3": {
+      "time": 1712921494496.8557,
+      "uuid": "aacd6641-2532-4ecc-bf0d-e7e7b61f79e2"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\19.mp3": {
+      "time": 1712921494218.0945,
+      "uuid": "8d67feaf-6b1a-41f3-ace3-9097563edd35"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\21.mp3": {
+      "time": 1712921494761.704,
+      "uuid": "4c9766fd-8bd6-411a-8487-876f3e9619e4"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\18.mp3": {
+      "time": 1712921493873.118,
+      "uuid": "4f225f7d-b586-4237-8b25-8a2d40f938e5"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\3.mp3": {
+      "time": 1712921491009.467,
+      "uuid": "d88d17ba-a7e1-47b8-9a3e-d4fce6d1dd12"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\5.mp3": {
+      "time": 1712921491635.6904,
+      "uuid": "03601434-7aeb-4b86-a6f1-c78a762b12e0"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\4.mp3": {
+      "time": 1712921491339.561,
+      "uuid": "cc250452-ceb8-4a20-b637-d64ecb7e78e3"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\8.mp3": {
+      "time": 1712920853212.781,
+      "uuid": "3a8e0b5a-2e24-47e9-ae1c-0429f86bb6b1"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\7.mp3": {
+      "time": 1712921492229.2688,
+      "uuid": "27709f99-7479-4a0f-b6fb-655c6dbe707c"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\9.mp3": {
+      "time": 1712920853355.4019,
+      "uuid": "4302abbc-76ed-4dfb-b216-e57d79567e40"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key1.jpg.meta": {
+      "time": 1714370684248.5874
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key1.jpg": {
+      "time": 1712897014633.0637,
+      "uuid": "38f340b4-33af-4456-afae-3123344158d2"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key2.jpg.meta": {
+      "time": 1714370691423.813
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key2.jpg": {
+      "time": 1712897014634.079,
+      "uuid": "e0f95caf-cf57-48fd-a795-9fa1636ff0e5"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key3.jpg.meta": {
+      "time": 1714370699459.5273
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key3.jpg": {
+      "time": 1712897014645.0354,
+      "uuid": "1ddfd69e-0999-4d4c-92a3-9409320c2837"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key4.jpg.meta": {
+      "time": 1714370707721.5627
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key4.jpg": {
+      "time": 1712897014653.0156,
+      "uuid": "7533b0e7-05cd-4004-a911-312bb2fcf01b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key5.jpg.meta": {
+      "time": 1714370717445.6096
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key5.jpg": {
+      "time": 1712897014657.0007,
+      "uuid": "c3bfc4d9-1ce3-42c7-b86d-32667c59732f"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key6.jpg.meta": {
+      "time": 1714370729412.9067
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key6.jpg": {
+      "time": 1712897014664.9788,
+      "uuid": "8f6fbd90-2826-46dc-ae46-32841b58415a"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key7.jpg.meta": {
+      "time": 1714370735573.985
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key7.jpg": {
+      "time": 1712897014665.9768,
+      "uuid": "3210cdd5-d447-42c9-80c2-159729b14cbd"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key14.jpg.meta": {
+      "time": 1714370756409.1582
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key14.jpg": {
+      "time": 1712897014706.1826,
+      "uuid": "5f7f6dff-bca1-459d-9db7-b368c608e71d"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key15.jpg.meta": {
+      "time": 1714370780836.6724
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key15.jpg": {
+      "time": 1712897014707.1516,
+      "uuid": "e0826297-6c09-474a-96bd-cb88c1fd69f7"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key16.jpg.meta": {
+      "time": 1714370790228.7332
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key16.jpg": {
+      "time": 1712897014709.145,
+      "uuid": "311a6857-5d05-4884-8a5f-19312aa8d2aa"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key17.jpg.meta": {
+      "time": 1714370798116.9333
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key17.jpg": {
+      "time": 1712897014711.1433,
+      "uuid": "e4b9d439-aa48-43c9-a617-f343907554a1"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key19.jpg.meta": {
+      "time": 1714370802601.2832
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key19.jpg": {
+      "time": 1712897014720.1167,
+      "uuid": "e1aca0f3-be0e-4248-8947-22cedc106213"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key20.jpg.meta": {
+      "time": 1714370807384.3704
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key20.jpg": {
+      "time": 1712897014721.1135,
+      "uuid": "30e7f9b2-90b3-47d0-9b3b-659eb6100367"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key18.jpg.meta": {
+      "time": 1714370813482.823
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key18.jpg": {
+      "time": 1712897014715.1377,
+      "uuid": "25336c29-ae20-4a5c-8afb-112acc038f66"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key21.jpg.meta": {
+      "time": 1714370819625.3567
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key21.jpg": {
+      "time": 1712897014723.1091,
+      "uuid": "406b9da2-98bb-4db0-938d-cfd08f21d68b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key8.jpg.meta": {
+      "time": 1714370828297.145
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key8.jpg": {
+      "time": 1712897014693.1914,
+      "uuid": "3dd4ad7f-cb21-44a8-9451-9211d208b8f0"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key9.jpg.meta": {
+      "time": 1714370834304.8188
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key9.jpg": {
+      "time": 1712897014694.1858,
+      "uuid": "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key10.jpg.meta": {
+      "time": 1714370840624.3462
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key10.jpg": {
+      "time": 1712897014695.1846,
+      "uuid": "27d29276-a80f-49c8-a608-802fdd7f2224"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key11.jpg.meta": {
+      "time": 1714370847861.0603
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key11.jpg": {
+      "time": 1712897014697.1816,
+      "uuid": "9541da9b-9542-4ac8-bae4-57dcd23d291a"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key12.jpg.meta": {
+      "time": 1714370854262.87
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key12.jpg": {
+      "time": 1712897014701.1729,
+      "uuid": "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key13.jpg.meta": {
+      "time": 1714370860396.7483
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\model\\key13.jpg": {
+      "time": 1712897014704.187,
+      "uuid": "a06b6463-b7bf-492e-af4d-7053321cae46"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\greenpaper.png.meta": {
+      "time": 1714392428698.2002
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\redpaper.png.meta": {
+      "time": 1714392428944.6758
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\greenpaper.png": {
+      "time": 1714392329053.0183,
+      "uuid": "0952fee4-25dd-4775-a894-9a6c913fc715"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\redpaper.png": {
+      "time": 1714392363616.49,
+      "uuid": "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\15.jpg.meta": {
+      "time": 1714398325808.5823
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\16.jpg.meta": {
+      "time": 1714398325820.5493
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\17.jpg.meta": {
+      "time": 1714398325825.536
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\18.jpg.meta": {
+      "time": 1714398325827.532
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\19.jpg.meta": {
+      "time": 1714398325809.5796
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\20.jpg.meta": {
+      "time": 1714398325880.3909
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\21.jpg.meta": {
+      "time": 1714398325876.401
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\19.jpg": {
+      "time": 1713370674037.1228,
+      "uuid": "a8292d63-5388-47a0-a0ed-4c95512a5709"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\15.jpg": {
+      "time": 1713370674021.1597,
+      "uuid": "cade6b5e-2fe8-4dda-a3b6-9367435a8289"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\18.jpg": {
+      "time": 1713370674029.1426,
+      "uuid": "cf66cffa-1790-415f-a65a-b170c6dbe1ce"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\16.jpg": {
+      "time": 1713370674023.1519,
+      "uuid": "1780994e-36c3-480b-9536-09c89f8f608d"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\17.jpg": {
+      "time": 1713370674026.1504,
+      "uuid": "ea9c9dc9-8182-4a82-99cd-bc542fb3e880"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\20.jpg": {
+      "time": 1713370674080.8618,
+      "uuid": "4f5f00f3-d19a-41bd-829d-910fb26d5a9f"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\21.jpg": {
+      "time": 1713370674080.8618,
+      "uuid": "02e040ba-bfa3-4b58-9321-20ef5a99a5fb"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\error1.mp3.meta": {
+      "time": 1714399245879.761
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\audio\\error1.mp3": {
+      "time": 1714399152747.2432,
+      "uuid": "03cf077a-2281-4aad-a36a-48f9cc364468"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\songselect.scene.meta": {
+      "time": 1714441463136.4634
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\scene\\songselect.scene": {
+      "time": 1714482911038.75,
+      "uuid": "b085ecdd-3c3e-491e-8694-a8fee6d068b8"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\prefab\\songlist.prefab.meta": {
+      "time": 1714442080355.7395
+    },
+    "D:\\cocos\\PlayPiano\\assets\\res\\prefab\\songlist.prefab": {
+      "time": 1714449619373.866,
+      "uuid": "fd6d9ae6-0f9c-4df1-ad18-c64196ab11b6"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\songlist.ts.meta": {
+      "time": 1714442108954.651
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\songlist.ts": {
+      "time": 1714447831529.3342,
+      "uuid": "4412ec40-0ae7-4154-9f49-f90c6b76e15b"
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\bglist.ts.meta": {
+      "time": 1714446301617.117
+    },
+    "D:\\cocos\\PlayPiano\\assets\\script\\ui\\bglist.ts": {
+      "time": 1714479590092.2104,
+      "uuid": "0fe6dc1c-554e-4862-b29b-e4c83c16e0d7"
+    }
+  },
+  "missing": {
+    "89791290-da4e-44dd-b060-a28ceaa6c78d": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\4.jpg",
+      "time": 1712897014697.1816,
+      "removeTime": 1714101022015
+    },
+    "4f4c30b5-33f0-4208-8cb4-053dd64ab28b": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\6.jpg",
+      "time": 1712897014704.187,
+      "removeTime": 1714101136638
+    },
+    "1e14a90d-139a-4ead-a0db-6d03a948a80f": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\5.jpg",
+      "time": 1712897014701.1729,
+      "removeTime": 1714101136665
+    },
+    "64f2bd9a-b856-47ee-a9f3-3cda258b97c7": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\1.jpg",
+      "time": 1712897014693.1914,
+      "removeTime": 1714101136810
+    },
+    "c69c61a6-d018-4a4e-94ae-485889698c3a": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\2.jpg",
+      "time": 1712897014694.1858,
+      "removeTime": 1714101136810
+    },
+    "43c50e4a-bb13-4448-9e8e-867d34920c63": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\3.jpg",
+      "time": 1712897014695.1846,
+      "removeTime": 1714101136811
+    },
+    "3c49f4e3-5af4-44bf-a23f-89d9fb1b2ab9": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\7.jpg",
+      "time": 1712897014706.1826,
+      "removeTime": 1714101136811
+    },
+    "01953e73-504f-4449-ab0e-a23f95f27eea": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\4.jpg",
+      "time": 1712897014697.1816,
+      "removeTime": 1714101136811
+    },
+    "6a60b26e-b544-49bb-b7bb-017d88c5c394": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\1",
+      "time": 1714101422628.4868,
+      "removeTime": 1714101428361
+    },
+    "9fe5d3ea-b8d9-4f73-9a40-91f700c02744": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\framework\\AudioManager",
+      "time": 1714107634548.4214,
+      "removeTime": 1714107706568
+    },
+    "99383313-15d5-498d-9419-d805d2ac716b": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\audio\\key8.mp3",
+      "time": 1712731696569.501,
+      "removeTime": 1714357530851
+    },
+    "8ced3375-c2ab-4a2b-95c0-e83963b94ffe": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\audio\\key9.mp3",
+      "time": 1712731696697.7976,
+      "removeTime": 1714357530851
+    },
+    "d1f1ab02-9322-4156-80dc-664ce19d8497": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\framework\\GameManager",
+      "time": 1714116325472.239,
+      "removeTime": 1714116333961
+    },
+    "be8fce0a-9b2e-4e21-aa19-6f0192e18aae": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\audio\\key10.mp3",
+      "time": 1712731696824.4185,
+      "removeTime": 1714357530850
+    },
+    "d9028552-b479-462c-b8fd-d157d8e1244e": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\framework\\AudioManager.ts",
+      "time": 1714117121158.116,
+      "removeTime": 1714126635641
+    },
+    "7a463ff1-73b6-4243-910f-1ae2a5e48e41": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\Excel\\歌词.csv",
+      "time": 1713460812759.73,
+      "removeTime": 1714222628976
+    },
+    "1d733998-440f-47cb-8811-81dfc086c00c": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\scene\\free.scene",
+      "time": 1714223114279.1658,
+      "removeTime": 1714223276057
+    },
+    "1002f72e-daa2-4508-b108-8bbb49aec0aa": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\background\\弹框背景图2.png",
+      "time": 1710340182866.1958,
+      "removeTime": 1714223961531
+    },
+    "935a2347-398b-433d-b18e-aac41cc05f97": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\framework\\chellengemanager.ts",
+      "time": 1714127192330.3171,
+      "removeTime": 1714225216790
+    },
+    "d42053b2-43a9-4d43-9aa3-7c76a95e87d6": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\framework\\freemanager.ts",
+      "time": 1714225134639.049,
+      "removeTime": 1714225312415
+    },
+    "4c5cb329-1f14-4f26-9bd4-e7b7f7cb117a": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\framework\\exercisemanager.ts",
+      "time": 1714225090566.8179,
+      "removeTime": 1714225316930
+    },
+    "869d7fe4-777c-4447-bc36-920795e03a7d": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\NewComponent.ts",
+      "time": 1714226351460.202,
+      "removeTime": 1714226356824
+    },
+    "6fdf936e-f67e-4d22-b281-cf20c344f512": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\library\\ItemTemplate.ts",
+      "time": 1714228000378.1118,
+      "removeTime": 1714229006888
+    },
+    "a7400e23-b3af-4dba-b6d0-2a92f4e8e33b": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\key.ts",
+      "time": 1714226094951.2773,
+      "removeTime": 1714226672060
+    },
+    "a41a9c70-38c0-4b97-8781-c6e0fc5860d3": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\key.ts",
+      "time": 1714227084672.2246,
+      "removeTime": 1714227320303
+    },
+    "c55e81d2-0cd0-418d-b3cc-76fe23ec1196": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\ItemTemplate.ts",
+      "time": 1714227126883.7734,
+      "removeTime": 1714227326491
+    },
+    "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\8.jpg",
+      "time": 1713370832236.9727,
+      "removeTime": 1714232744817
+    },
+    "1ed78338-84ed-4ea2-a860-f0814be5dccc": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\prefab\\wordback.prefab",
+      "time": 1714234218173.0964,
+      "removeTime": 1714272455311
+    },
+    "b26b400f-0bc7-4554-ac48-9c5dea2e48d0": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\background\\首页背景3.jpg",
+      "time": 1714272086209.4563,
+      "removeTime": 1714272194685
+    },
+    "1352abb8-a173-4fec-96ea-09f7ab73fbb7": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\ui\\wordnode\\白纸.png",
+      "time": 1706978841525.5684,
+      "removeTime": 1714273092558
+    },
+    "3b814ca8-526e-44ba-b008-6b4a8a5378d3": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\Excel\\歌曲.csv",
+      "time": 1714285824390.9446,
+      "removeTime": 1714285943846
+    },
+    "38f340b4-33af-4456-afae-3123344158d2": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\1.jpg",
+      "time": 1712897014633.0637,
+      "removeTime": 1714370683942
+    },
+    "e0f95caf-cf57-48fd-a795-9fa1636ff0e5": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\2.jpg",
+      "time": 1712897014634.079,
+      "removeTime": 1714370691391
+    },
+    "1ddfd69e-0999-4d4c-92a3-9409320c2837": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\3.jpg",
+      "time": 1712897014645.0354,
+      "removeTime": 1714370699397
+    },
+    "7533b0e7-05cd-4004-a911-312bb2fcf01b": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\4.jpg",
+      "time": 1712897014653.0156,
+      "removeTime": 1714370707680
+    },
+    "c3bfc4d9-1ce3-42c7-b86d-32667c59732f": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\5.jpg",
+      "time": 1712897014657.0007,
+      "removeTime": 1714370717407
+    },
+    "8f6fbd90-2826-46dc-ae46-32841b58415a": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\6.jpg",
+      "time": 1712897014664.9788,
+      "removeTime": 1714370729387
+    },
+    "3210cdd5-d447-42c9-80c2-159729b14cbd": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\7.jpg",
+      "time": 1712897014665.9768,
+      "removeTime": 1714370735545
+    },
+    "5f7f6dff-bca1-459d-9db7-b368c608e71d": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\14.jpg",
+      "time": 1712897014706.1826,
+      "removeTime": 1714370756363
+    },
+    "e0826297-6c09-474a-96bd-cb88c1fd69f7": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\key.jpg",
+      "time": 1712897014707.1516,
+      "removeTime": 1714370780789
+    },
+    "311a6857-5d05-4884-8a5f-19312aa8d2aa": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\16.jpg",
+      "time": 1712897014709.145,
+      "removeTime": 1714370790199
+    },
+    "e4b9d439-aa48-43c9-a617-f343907554a1": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\17.jpg",
+      "time": 1712897014711.1433,
+      "removeTime": 1714370798091
+    },
+    "e1aca0f3-be0e-4248-8947-22cedc106213": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\19.jpg",
+      "time": 1712897014720.1167,
+      "removeTime": 1714370802568
+    },
+    "30e7f9b2-90b3-47d0-9b3b-659eb6100367": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\20.jpg",
+      "time": 1712897014721.1135,
+      "removeTime": 1714370807346
+    },
+    "25336c29-ae20-4a5c-8afb-112acc038f66": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\18.jpg",
+      "time": 1712897014715.1377,
+      "removeTime": 1714370813448
+    },
+    "406b9da2-98bb-4db0-938d-cfd08f21d68b": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\21.jpg",
+      "time": 1712897014723.1091,
+      "removeTime": 1714370819598
+    },
+    "3dd4ad7f-cb21-44a8-9451-9211d208b8f0": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\8.jpg",
+      "time": 1712897014693.1914,
+      "removeTime": 1714370828266
+    },
+    "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\9.jpg",
+      "time": 1712897014694.1858,
+      "removeTime": 1714370834265
+    },
+    "27d29276-a80f-49c8-a608-802fdd7f2224": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\10.jpg",
+      "time": 1712897014695.1846,
+      "removeTime": 1714370840597
+    },
+    "9541da9b-9542-4ac8-bae4-57dcd23d291a": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\11.jpg",
+      "time": 1712897014697.1816,
+      "removeTime": 1714370847831
+    },
+    "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\12.jpg",
+      "time": 1712897014701.1729,
+      "removeTime": 1714370854240
+    },
+    "a06b6463-b7bf-492e-af4d-7053321cae46": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\res\\model\\13.jpg",
+      "time": 1712897014704.187,
+      "removeTime": 1714370860378
+    },
+    "2b3bd6aa-4cdb-4a70-a088-149236c7b87b": {
+      "path": "D:\\cocos\\PlayPiano\\assets\\script\\ui\\note.ts",
+      "time": 1714382430746.7195,
+      "removeTime": 1714392025539
+    }
+  }
+}

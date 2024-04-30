@@ -1,0 +1,1991 @@
+{
+  "7c69b419-99a8-4bb8-b89f-e61489a9af05": {
+    "url": "db://assets/res",
+    "value": {},
+    "versionCode": 0
+  },
+  "68f1ac90-a565-4d4c-9a77-388d9de6b6f8": {
+    "url": "db://assets/res/audio",
+    "value": {},
+    "versionCode": 0
+  },
+  "69794de5-096f-46d1-8da9-b852970c3067": {
+    "url": "db://assets/res/background",
+    "value": {},
+    "versionCode": 0
+  },
+  "2b5741df-5add-4e7e-86ac-6ec2a3c38067": {
+    "url": "db://assets/res/effect",
+    "value": {},
+    "versionCode": 0
+  },
+  "2a228dab-72b2-4e87-9e85-9d28751568d5": {
+    "url": "db://assets/res/material",
+    "value": {},
+    "versionCode": 0
+  },
+  "03d8ffee-0f33-4c74-b882-724a5a61b9e9": {
+    "url": "db://assets/res/model",
+    "value": {},
+    "versionCode": 0
+  },
+  "c32b4a96-8c35-43ff-9961-460d8fb6e515": {
+    "url": "db://assets/res/texture",
+    "value": {},
+    "versionCode": 0
+  },
+  "64f2bd9a-b856-47ee-a9f3-3cda258b97c7": {
+    "url": "db://assets/res/model/1.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "64f2bd9a-b856-47ee-a9f3-3cda258b97c7@6c48a": {
+    "url": "db://assets/res/model/1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "64f2bd9a-b856-47ee-a9f3-3cda258b97c7"
+      ]
+    },
+    "versionCode": 0
+  },
+  "64f2bd9a-b856-47ee-a9f3-3cda258b97c7@f9941": {
+    "url": "db://assets/res/model/1.jpg@f9941",
+    "value": {
+      "depends": [
+        "64f2bd9a-b856-47ee-a9f3-3cda258b97c7@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c69c61a6-d018-4a4e-94ae-485889698c3a": {
+    "url": "db://assets/res/model/2.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "c69c61a6-d018-4a4e-94ae-485889698c3a@6c48a": {
+    "url": "db://assets/res/model/2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "c69c61a6-d018-4a4e-94ae-485889698c3a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c69c61a6-d018-4a4e-94ae-485889698c3a@f9941": {
+    "url": "db://assets/res/model/2.jpg@f9941",
+    "value": {
+      "depends": [
+        "c69c61a6-d018-4a4e-94ae-485889698c3a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43c50e4a-bb13-4448-9e8e-867d34920c63": {
+    "url": "db://assets/res/model/3.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "43c50e4a-bb13-4448-9e8e-867d34920c63@6c48a": {
+    "url": "db://assets/res/model/3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "43c50e4a-bb13-4448-9e8e-867d34920c63"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43c50e4a-bb13-4448-9e8e-867d34920c63@f9941": {
+    "url": "db://assets/res/model/3.jpg@f9941",
+    "value": {
+      "depends": [
+        "43c50e4a-bb13-4448-9e8e-867d34920c63@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "89791290-da4e-44dd-b060-a28ceaa6c78d": {
+    "url": "db://assets/res/model/4.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "1e14a90d-139a-4ead-a0db-6d03a948a80f": {
+    "url": "db://assets/res/model/5.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "1e14a90d-139a-4ead-a0db-6d03a948a80f@6c48a": {
+    "url": "db://assets/res/model/5.jpg@6c48a",
+    "value": {
+      "depends": [
+        "1e14a90d-139a-4ead-a0db-6d03a948a80f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1e14a90d-139a-4ead-a0db-6d03a948a80f@f9941": {
+    "url": "db://assets/res/model/5.jpg@f9941",
+    "value": {
+      "depends": [
+        "1e14a90d-139a-4ead-a0db-6d03a948a80f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f4c30b5-33f0-4208-8cb4-053dd64ab28b": {
+    "url": "db://assets/res/model/6.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "4f4c30b5-33f0-4208-8cb4-053dd64ab28b@6c48a": {
+    "url": "db://assets/res/model/6.jpg@6c48a",
+    "value": {
+      "depends": [
+        "4f4c30b5-33f0-4208-8cb4-053dd64ab28b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f4c30b5-33f0-4208-8cb4-053dd64ab28b@f9941": {
+    "url": "db://assets/res/model/6.jpg@f9941",
+    "value": {
+      "depends": [
+        "4f4c30b5-33f0-4208-8cb4-053dd64ab28b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3c49f4e3-5af4-44bf-a23f-89d9fb1b2ab9": {
+    "url": "db://assets/res/model/7.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "3c49f4e3-5af4-44bf-a23f-89d9fb1b2ab9@6c48a": {
+    "url": "db://assets/res/model/7.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3c49f4e3-5af4-44bf-a23f-89d9fb1b2ab9"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3c49f4e3-5af4-44bf-a23f-89d9fb1b2ab9@f9941": {
+    "url": "db://assets/res/model/7.jpg@f9941",
+    "value": {
+      "depends": [
+        "3c49f4e3-5af4-44bf-a23f-89d9fb1b2ab9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "01953e73-504f-4449-ab0e-a23f95f27eea": {
+    "url": "db://assets/res/model/4.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "01953e73-504f-4449-ab0e-a23f95f27eea@6c48a": {
+    "url": "db://assets/res/model/4.jpg@6c48a",
+    "value": {
+      "depends": [
+        "01953e73-504f-4449-ab0e-a23f95f27eea"
+      ]
+    },
+    "versionCode": 0
+  },
+  "01953e73-504f-4449-ab0e-a23f95f27eea@f9941": {
+    "url": "db://assets/res/model/4.jpg@f9941",
+    "value": {
+      "depends": [
+        "01953e73-504f-4449-ab0e-a23f95f27eea@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "99383313-15d5-498d-9419-d805d2ac716b": {
+    "url": "db://assets/res/audio/key8.mp3",
+    "value": {},
+    "versionCode": 0
+  },
+  "8ced3375-c2ab-4a2b-95c0-e83963b94ffe": {
+    "url": "db://assets/res/audio/key9.mp3",
+    "value": {},
+    "versionCode": 0
+  },
+  "be8fce0a-9b2e-4e21-aa19-6f0192e18aae": {
+    "url": "db://assets/res/audio/key10.mp3",
+    "value": {},
+    "versionCode": 0
+  },
+  "41036e40-9ee8-4f54-9f72-70b999070348": {
+    "url": "db://assets/res/audio/11.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1f50c3af-c5f5-4d77-8bce-cb8cba6f1e15": {
+    "url": "db://assets/res/audio/12.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "de0a61a3-15bf-4836-a773-5053f1c681d5": {
+    "url": "db://assets/res/audio/13.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "71cc7e6c-af04-47b9-ba93-08dea3e596a2": {
+    "url": "db://assets/res/audio/14.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3dd4ad7f-cb21-44a8-9451-9211d208b8f0": {
+    "url": "db://assets/res/model/key8.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3dd4ad7f-cb21-44a8-9451-9211d208b8f0@6c48a": {
+    "url": "db://assets/res/model/key8.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3dd4ad7f-cb21-44a8-9451-9211d208b8f0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3dd4ad7f-cb21-44a8-9451-9211d208b8f0@f9941": {
+    "url": "db://assets/res/model/key8.jpg@f9941",
+    "value": {
+      "depends": [
+        "3dd4ad7f-cb21-44a8-9451-9211d208b8f0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2": {
+    "url": "db://assets/res/model/key9.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2@6c48a": {
+    "url": "db://assets/res/model/key9.jpg@6c48a",
+    "value": {
+      "depends": [
+        "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2@f9941": {
+    "url": "db://assets/res/model/key9.jpg@f9941",
+    "value": {
+      "depends": [
+        "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "27d29276-a80f-49c8-a608-802fdd7f2224": {
+    "url": "db://assets/res/model/key10.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "27d29276-a80f-49c8-a608-802fdd7f2224@6c48a": {
+    "url": "db://assets/res/model/key10.jpg@6c48a",
+    "value": {
+      "depends": [
+        "27d29276-a80f-49c8-a608-802fdd7f2224"
+      ]
+    },
+    "versionCode": 0
+  },
+  "27d29276-a80f-49c8-a608-802fdd7f2224@f9941": {
+    "url": "db://assets/res/model/key10.jpg@f9941",
+    "value": {
+      "depends": [
+        "27d29276-a80f-49c8-a608-802fdd7f2224@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9541da9b-9542-4ac8-bae4-57dcd23d291a": {
+    "url": "db://assets/res/model/key11.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "9541da9b-9542-4ac8-bae4-57dcd23d291a@6c48a": {
+    "url": "db://assets/res/model/key11.jpg@6c48a",
+    "value": {
+      "depends": [
+        "9541da9b-9542-4ac8-bae4-57dcd23d291a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9541da9b-9542-4ac8-bae4-57dcd23d291a@f9941": {
+    "url": "db://assets/res/model/key11.jpg@f9941",
+    "value": {
+      "depends": [
+        "9541da9b-9542-4ac8-bae4-57dcd23d291a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d": {
+    "url": "db://assets/res/model/key12.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d@6c48a": {
+    "url": "db://assets/res/model/key12.jpg@6c48a",
+    "value": {
+      "depends": [
+        "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d@f9941": {
+    "url": "db://assets/res/model/key12.jpg@f9941",
+    "value": {
+      "depends": [
+        "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a06b6463-b7bf-492e-af4d-7053321cae46": {
+    "url": "db://assets/res/model/key13.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a06b6463-b7bf-492e-af4d-7053321cae46@6c48a": {
+    "url": "db://assets/res/model/key13.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a06b6463-b7bf-492e-af4d-7053321cae46"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a06b6463-b7bf-492e-af4d-7053321cae46@f9941": {
+    "url": "db://assets/res/model/key13.jpg@f9941",
+    "value": {
+      "depends": [
+        "a06b6463-b7bf-492e-af4d-7053321cae46@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5f7f6dff-bca1-459d-9db7-b368c608e71d": {
+    "url": "db://assets/res/model/key14.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "5f7f6dff-bca1-459d-9db7-b368c608e71d@6c48a": {
+    "url": "db://assets/res/model/key14.jpg@6c48a",
+    "value": {
+      "depends": [
+        "5f7f6dff-bca1-459d-9db7-b368c608e71d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5f7f6dff-bca1-459d-9db7-b368c608e71d@f9941": {
+    "url": "db://assets/res/model/key14.jpg@f9941",
+    "value": {
+      "depends": [
+        "5f7f6dff-bca1-459d-9db7-b368c608e71d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6a60b26e-b544-49bb-b7bb-017d88c5c394": {
+    "url": "db://assets/res/1",
+    "value": {},
+    "versionCode": 0
+  },
+  "21af0969-4438-4981-a14d-f2cd573dc778": {
+    "url": "db://assets/script",
+    "value": {},
+    "versionCode": 0
+  },
+  "a7400e23-b3af-4dba-b6d0-2a92f4e8e33b": {
+    "url": "db://assets/script/keys/key.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "cffc3890-eb35-4d7f-aeb7-859d9c7cdc6b": {
+    "url": "db://assets/script/framework",
+    "value": {},
+    "versionCode": 0
+  },
+  "9fe5d3ea-b8d9-4f73-9a40-91f700c02744": {
+    "url": "db://assets/script/framework/AudioManager",
+    "value": {},
+    "versionCode": 0
+  },
+  "d9028552-b479-462c-b8fd-d157d8e1244e": {
+    "url": "db://assets/script/framework/AudioManager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "5b762e73-6bcb-4085-8bfa-ca10e81b54ee": {
+    "url": "db://assets/res/scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "c8191e62-4f8a-44a6-9cce-7f8d1d0a7daa": {
+    "url": "db://assets/res/scene/chellenge.scene",
+    "value": {
+      "depends": [
+        "c8191e62-4f8a-44a6-9cce-7f8d1d0a7daa",
+        "1a265cb8-f76e-409f-a5b1-76fc80bdcc04",
+        "bf4c73f8-0d85-497e-9e93-5ca86b1a2afd",
+        "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c@f9941",
+        "17dbd477-b854-4362-bb6f-be59a460fd4a@f9941",
+        "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2@f9941",
+        "3971c476-168c-48ca-91d1-1ec7baadd8f9@f9941",
+        "1484f5fa-3434-41f5-9a10-254945d59110@f9941",
+        "8f91121a-4970-41ee-9f37-0c7264c2adc5@f9941",
+        "10102eea-0961-474e-9255-b6c7e520228e@f9941",
+        "42d8258e-a5b1-4ecd-8129-7f9b96918fb2@f9941",
+        "01684285-cd9b-45e1-b483-bb312ab4ffda@f9941",
+        "37974fb4-c45c-4430-bbf4-1a7c88576a00@f9941",
+        "7fdc6ec8-3125-4b8d-876f-454c87c982e1@f9941",
+        "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044@f9941",
+        "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd@f9941",
+        "9bd12250-4f39-4de2-9084-a92e76e3e59c@f9941",
+        "cade6b5e-2fe8-4dda-a3b6-9367435a8289@f9941",
+        "1780994e-36c3-480b-9536-09c89f8f608d@f9941",
+        "ea9c9dc9-8182-4a82-99cd-bc542fb3e880@f9941",
+        "cf66cffa-1790-415f-a65a-b170c6dbe1ce@f9941",
+        "a8292d63-5388-47a0-a0ed-4c95512a5709@f9941",
+        "4f5f00f3-d19a-41bd-829d-910fb26d5a9f@f9941",
+        "02e040ba-bfa3-4b58-9321-20ef5a99a5fb@f9941",
+        "0952fee4-25dd-4775-a894-9a6c913fc715@f9941",
+        "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3@f9941",
+        "9f673e80-f7ff-4092-b7c5-7f6186cc2315",
+        "03cf077a-2281-4aad-a36a-48f9cc364468",
+        "3dd4ad7f-cb21-44a8-9451-9211d208b8f0@f9941",
+        "3a8e0b5a-2e24-47e9-ae1c-0429f86bb6b1",
+        "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2@f9941",
+        "4302abbc-76ed-4dfb-b216-e57d79567e40",
+        "27d29276-a80f-49c8-a608-802fdd7f2224@f9941",
+        "54dcb96e-8143-45a1-95e3-1ca6baa65e0c",
+        "9541da9b-9542-4ac8-bae4-57dcd23d291a@f9941",
+        "41036e40-9ee8-4f54-9f72-70b999070348",
+        "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d@f9941",
+        "1f50c3af-c5f5-4d77-8bce-cb8cba6f1e15",
+        "a06b6463-b7bf-492e-af4d-7053321cae46@f9941",
+        "de0a61a3-15bf-4836-a773-5053f1c681d5",
+        "8f6fbd90-2826-46dc-ae46-32841b58415a@f9941",
+        "578cd5d7-794a-4053-a73b-8727a36f526b",
+        "38f340b4-33af-4456-afae-3123344158d2@f9941",
+        "ed16b894-cac0-4b89-ac3f-12a246ff8cae",
+        "3210cdd5-d447-42c9-80c2-159729b14cbd@f9941",
+        "27709f99-7479-4a0f-b6fb-655c6dbe707c",
+        "c3bfc4d9-1ce3-42c7-b86d-32667c59732f@f9941",
+        "03601434-7aeb-4b86-a6f1-c78a762b12e0",
+        "e0f95caf-cf57-48fd-a795-9fa1636ff0e5@f9941",
+        "fcc93361-cbc8-48ff-b0fc-dd5e0774eb44",
+        "1ddfd69e-0999-4d4c-92a3-9409320c2837@f9941",
+        "d88d17ba-a7e1-47b8-9a3e-d4fce6d1dd12",
+        "7533b0e7-05cd-4004-a911-312bb2fcf01b@f9941",
+        "cc250452-ceb8-4a20-b637-d64ecb7e78e3",
+        "5f7f6dff-bca1-459d-9db7-b368c608e71d@f9941",
+        "71cc7e6c-af04-47b9-ba93-08dea3e596a2",
+        "e0826297-6c09-474a-96bd-cb88c1fd69f7@f9941",
+        "0623630e-f71f-4a70-a257-3f201cd7e934",
+        "311a6857-5d05-4884-8a5f-19312aa8d2aa@f9941",
+        "5434f272-80bb-479e-b6bf-9af39babf6d8",
+        "e4b9d439-aa48-43c9-a617-f343907554a1@f9941",
+        "7ec855f1-e5c9-4eab-ae0d-1ebb1fa917dc",
+        "25336c29-ae20-4a5c-8afb-112acc038f66@f9941",
+        "4f225f7d-b586-4237-8b25-8a2d40f938e5",
+        "e1aca0f3-be0e-4248-8947-22cedc106213@f9941",
+        "8d67feaf-6b1a-41f3-ace3-9097563edd35",
+        "30e7f9b2-90b3-47d0-9b3b-659eb6100367@f9941",
+        "aacd6641-2532-4ecc-bf0d-e7e7b61f79e2",
+        "406b9da2-98bb-4db0-938d-cfd08f21d68b@f9941",
+        "4c9766fd-8bd6-411a-8487-876f3e9619e4",
+        "cd66cf38-a797-409a-8197-6ca1a89d0a09@f9941"
+      ],
+      "dependScripts": [
+        "b59fa82d-68db-4489-a115-ac6bb8c1d6bd",
+        "a7400e23-b3af-4dba-b6d0-2a92f4e8e33b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d1f1ab02-9322-4156-80dc-664ce19d8497": {
+    "url": "db://assets/script/framework/GameManager",
+    "value": {},
+    "versionCode": 0
+  },
+  "935a2347-398b-433d-b18e-aac41cc05f97": {
+    "url": "db://assets/script/framework/chellengemanager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "8f6fbd90-2826-46dc-ae46-32841b58415a": {
+    "url": "db://assets/res/model/key6.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8f6fbd90-2826-46dc-ae46-32841b58415a@6c48a": {
+    "url": "db://assets/res/model/key6.jpg@6c48a",
+    "value": {
+      "depends": [
+        "8f6fbd90-2826-46dc-ae46-32841b58415a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8f6fbd90-2826-46dc-ae46-32841b58415a@f9941": {
+    "url": "db://assets/res/model/key6.jpg@f9941",
+    "value": {
+      "depends": [
+        "8f6fbd90-2826-46dc-ae46-32841b58415a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "578cd5d7-794a-4053-a73b-8727a36f526b": {
+    "url": "db://assets/res/audio/6.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "2a08d41c-b869-408c-b6fa-c39489ace6ba": {
+    "url": "db://assets/res/Excel",
+    "value": {},
+    "versionCode": 0
+  },
+  "7a463ff1-73b6-4243-910f-1ae2a5e48e41": {
+    "url": "db://assets/res/Excel/歌词.csv",
+    "value": {},
+    "versionCode": 0
+  },
+  "6fdf936e-f67e-4d22-b281-cf20c344f512": {
+    "url": "db://assets/script/library/ItemTemplate.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "3b814ca8-526e-44ba-b008-6b4a8a5378d3": {
+    "url": "db://assets/res/Excel/歌曲.csv",
+    "value": {},
+    "versionCode": 0
+  },
+  "bf4c73f8-0d85-497e-9e93-5ca86b1a2afd": {
+    "url": "db://assets/res/Excel/曲谱.csv",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1d733998-440f-47cb-8811-81dfc086c00c": {
+    "url": "db://assets/res/scene/free.scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "b867282e-c43b-497f-822d-1a1a3299d2a5": {
+    "url": "db://assets/res/scene/exercise.scene",
+    "value": {
+      "depends": [
+        "b867282e-c43b-497f-822d-1a1a3299d2a5",
+        "8f6fbd90-2826-46dc-ae46-32841b58415a@f9941",
+        "3dd4ad7f-cb21-44a8-9451-9211d208b8f0@f9941",
+        "8e05c556-6bf7-4f1d-8ec8-c5252ea8ada2@f9941",
+        "27d29276-a80f-49c8-a608-802fdd7f2224@f9941",
+        "9541da9b-9542-4ac8-bae4-57dcd23d291a@f9941",
+        "4b4d6aca-b6a4-4a5d-8e2a-ad79bad72f1d@f9941",
+        "a06b6463-b7bf-492e-af4d-7053321cae46@f9941",
+        "5f7f6dff-bca1-459d-9db7-b368c608e71d@f9941",
+        "149336ed-8e32-4236-8018-c135374bc03a@f9941",
+        "56a3170d-4e1c-4110-8233-4254f13eef6e@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "395a6332-9dc0-4773-b9bb-f8210812d987": {
+    "url": "db://assets/res/scene/free.scene",
+    "value": {
+      "depends": [
+        "395a6332-9dc0-4773-b9bb-f8210812d987"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "56a3170d-4e1c-4110-8233-4254f13eef6e": {
+    "url": "db://assets/res/background/background.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "56a3170d-4e1c-4110-8233-4254f13eef6e@6c48a": {
+    "url": "db://assets/res/background/background.jpg@6c48a",
+    "value": {
+      "depends": [
+        "56a3170d-4e1c-4110-8233-4254f13eef6e"
+      ]
+    },
+    "versionCode": 0
+  },
+  "56a3170d-4e1c-4110-8233-4254f13eef6e@f9941": {
+    "url": "db://assets/res/background/background.jpg@f9941",
+    "value": {
+      "depends": [
+        "56a3170d-4e1c-4110-8233-4254f13eef6e@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1002f72e-daa2-4508-b108-8bbb49aec0aa": {
+    "url": "db://assets/res/background/弹框背景图2.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "1002f72e-daa2-4508-b108-8bbb49aec0aa@6c48a": {
+    "url": "db://assets/res/background/弹框背景图2.png@6c48a",
+    "value": {
+      "depends": [
+        "1002f72e-daa2-4508-b108-8bbb49aec0aa"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1002f72e-daa2-4508-b108-8bbb49aec0aa@f9941": {
+    "url": "db://assets/res/background/弹框背景图2.png@f9941",
+    "value": {
+      "depends": [
+        "1002f72e-daa2-4508-b108-8bbb49aec0aa@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "149336ed-8e32-4236-8018-c135374bc03a": {
+    "url": "db://assets/res/background/popbackground.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "149336ed-8e32-4236-8018-c135374bc03a@6c48a": {
+    "url": "db://assets/res/background/popbackground.png@6c48a",
+    "value": {
+      "depends": [
+        "149336ed-8e32-4236-8018-c135374bc03a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "149336ed-8e32-4236-8018-c135374bc03a@f9941": {
+    "url": "db://assets/res/background/popbackground.png@f9941",
+    "value": {
+      "depends": [
+        "149336ed-8e32-4236-8018-c135374bc03a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4c5cb329-1f14-4f26-9bd4-e7b7f7cb117a": {
+    "url": "db://assets/script/framework/exercisemanager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "d42053b2-43a9-4d43-9aa3-7c76a95e87d6": {
+    "url": "db://assets/script/framework/freemanager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "b59fa82d-68db-4489-a115-ac6bb8c1d6bd": {
+    "url": "db://assets/script/framework/GameManager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "869d7fe4-777c-4447-bc36-920795e03a7d": {
+    "url": "db://assets/script/NewComponent.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "3d83ff87-38fe-4cbb-af61-8c30d808abb9": {
+    "url": "db://assets/script/library",
+    "value": {},
+    "versionCode": 0
+  },
+  "975459fc-4158-4595-9699-677fd3ba3b80": {
+    "url": "db://assets/script/keys",
+    "value": {},
+    "versionCode": 0
+  },
+  "c55e81d2-0cd0-418d-b3cc-76fe23ec1196": {
+    "url": "db://assets/script/ItemTemplate.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "a41a9c70-38c0-4b97-8781-c6e0fc5860d3": {
+    "url": "db://assets/script/key.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "69a23be1-ce2c-411e-8d12-34b41dae780b": {
+    "url": "db://assets/script/framework/Constant.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "5941d55c-d66c-46ab-a4e9-ebfadcced1c8": {
+    "url": "db://assets/res/ui",
+    "value": {},
+    "versionCode": 0
+  },
+  "af87e586-bff6-4fe8-b0a2-ba2c3f7c949d": {
+    "url": "db://assets/res/ui/wordnode",
+    "value": {},
+    "versionCode": 0
+  },
+  "1352abb8-a173-4fec-96ea-09f7ab73fbb7": {
+    "url": "db://assets/res/ui/wordnode/白纸.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "1352abb8-a173-4fec-96ea-09f7ab73fbb7@6c48a": {
+    "url": "db://assets/res/ui/wordnode/白纸.png@6c48a",
+    "value": {
+      "depends": [
+        "1352abb8-a173-4fec-96ea-09f7ab73fbb7"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1352abb8-a173-4fec-96ea-09f7ab73fbb7@f9941": {
+    "url": "db://assets/res/ui/wordnode/白纸.png@f9941",
+    "value": {
+      "depends": [
+        "1352abb8-a173-4fec-96ea-09f7ab73fbb7@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc": {
+    "url": "db://assets/res/ui/wordnode/note.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc@6c48a": {
+    "url": "db://assets/res/ui/wordnode/note.jpg@6c48a",
+    "value": {
+      "depends": [
+        "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc@f9941": {
+    "url": "db://assets/res/ui/wordnode/note.jpg@f9941",
+    "value": {
+      "depends": [
+        "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1ed78338-84ed-4ea2-a860-f0814be5dccc": {
+    "url": "db://assets/res/prefab/wordback.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "6121930f-db14-4fe8-90d1-8cbb0422d8c6": {
+    "url": "db://assets/res/prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "ddc85660-ccc8-4caf-a3fa-ac8865ae7619": {
+    "url": "db://assets/script/ui",
+    "value": {},
+    "versionCode": 0
+  },
+  "8f17eb5c-f047-4ca9-a92a-e6551bac347b": {
+    "url": "db://assets/script/ui/wordback.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "01684285-cd9b-45e1-b483-bb312ab4ffda": {
+    "url": "db://assets/res/ui/wordnode/9.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "01684285-cd9b-45e1-b483-bb312ab4ffda@6c48a": {
+    "url": "db://assets/res/ui/wordnode/9.jpg@6c48a",
+    "value": {
+      "depends": [
+        "01684285-cd9b-45e1-b483-bb312ab4ffda"
+      ]
+    },
+    "versionCode": 0
+  },
+  "01684285-cd9b-45e1-b483-bb312ab4ffda@f9941": {
+    "url": "db://assets/res/ui/wordnode/9.jpg@f9941",
+    "value": {
+      "depends": [
+        "01684285-cd9b-45e1-b483-bb312ab4ffda@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "37974fb4-c45c-4430-bbf4-1a7c88576a00": {
+    "url": "db://assets/res/ui/wordnode/10.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "37974fb4-c45c-4430-bbf4-1a7c88576a00@6c48a": {
+    "url": "db://assets/res/ui/wordnode/10.jpg@6c48a",
+    "value": {
+      "depends": [
+        "37974fb4-c45c-4430-bbf4-1a7c88576a00"
+      ]
+    },
+    "versionCode": 0
+  },
+  "37974fb4-c45c-4430-bbf4-1a7c88576a00@f9941": {
+    "url": "db://assets/res/ui/wordnode/10.jpg@f9941",
+    "value": {
+      "depends": [
+        "37974fb4-c45c-4430-bbf4-1a7c88576a00@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd": {
+    "url": "db://assets/res/ui/wordnode/13.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd@6c48a": {
+    "url": "db://assets/res/ui/wordnode/13.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd@f9941": {
+    "url": "db://assets/res/ui/wordnode/13.jpg@f9941",
+    "value": {
+      "depends": [
+        "a9549d85-6b6e-43f8-8c6a-cdb3a095afdd@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9bd12250-4f39-4de2-9084-a92e76e3e59c": {
+    "url": "db://assets/res/ui/wordnode/14.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "9bd12250-4f39-4de2-9084-a92e76e3e59c@6c48a": {
+    "url": "db://assets/res/ui/wordnode/14.jpg@6c48a",
+    "value": {
+      "depends": [
+        "9bd12250-4f39-4de2-9084-a92e76e3e59c"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9bd12250-4f39-4de2-9084-a92e76e3e59c@f9941": {
+    "url": "db://assets/res/ui/wordnode/14.jpg@f9941",
+    "value": {
+      "depends": [
+        "9bd12250-4f39-4de2-9084-a92e76e3e59c@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044": {
+    "url": "db://assets/res/ui/wordnode/12.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044@6c48a": {
+    "url": "db://assets/res/ui/wordnode/12.jpg@6c48a",
+    "value": {
+      "depends": [
+        "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044"
+      ]
+    },
+    "versionCode": 0
+  },
+  "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044@f9941": {
+    "url": "db://assets/res/ui/wordnode/12.jpg@f9941",
+    "value": {
+      "depends": [
+        "eb0463d0-8ce1-4db2-bbe9-934a1f4d2044@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7fdc6ec8-3125-4b8d-876f-454c87c982e1": {
+    "url": "db://assets/res/ui/wordnode/11.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "7fdc6ec8-3125-4b8d-876f-454c87c982e1@6c48a": {
+    "url": "db://assets/res/ui/wordnode/11.jpg@6c48a",
+    "value": {
+      "depends": [
+        "7fdc6ec8-3125-4b8d-876f-454c87c982e1"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7fdc6ec8-3125-4b8d-876f-454c87c982e1@f9941": {
+    "url": "db://assets/res/ui/wordnode/11.jpg@f9941",
+    "value": {
+      "depends": [
+        "7fdc6ec8-3125-4b8d-876f-454c87c982e1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2b3bd6aa-4cdb-4a70-a088-149236c7b87b": {
+    "url": "db://assets/script/ui/note.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "b26b400f-0bc7-4554-ac48-9c5dea2e48d0": {
+    "url": "db://assets/res/background/首页背景3.jpg",
+    "value": {},
+    "versionCode": 0
+  },
+  "b26b400f-0bc7-4554-ac48-9c5dea2e48d0@6c48a": {
+    "url": "db://assets/res/background/首页背景3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "b26b400f-0bc7-4554-ac48-9c5dea2e48d0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b26b400f-0bc7-4554-ac48-9c5dea2e48d0@f9941": {
+    "url": "db://assets/res/background/首页背景3.jpg@f9941",
+    "value": {
+      "depends": [
+        "b26b400f-0bc7-4554-ac48-9c5dea2e48d0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cd66cf38-a797-409a-8197-6ca1a89d0a09": {
+    "url": "db://assets/res/background/background3.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "cd66cf38-a797-409a-8197-6ca1a89d0a09@6c48a": {
+    "url": "db://assets/res/background/background3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "cd66cf38-a797-409a-8197-6ca1a89d0a09"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cd66cf38-a797-409a-8197-6ca1a89d0a09@f9941": {
+    "url": "db://assets/res/background/background3.jpg@f9941",
+    "value": {
+      "depends": [
+        "cd66cf38-a797-409a-8197-6ca1a89d0a09@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9f673e80-f7ff-4092-b7c5-7f6186cc2315": {
+    "url": "db://assets/res/prefab/wordback.prefab",
+    "value": {
+      "depends": [
+        "9e70a37a-9bcd-490d-b6e5-88b60d5e2fcc@f9941",
+        "a61e2c22-5687-45ea-b4de-334277e23958@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "a61e2c22-5687-45ea-b4de-334277e23958": {
+    "url": "db://assets/res/ui/wordnode/whitepaper.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a61e2c22-5687-45ea-b4de-334277e23958@6c48a": {
+    "url": "db://assets/res/ui/wordnode/whitepaper.png@6c48a",
+    "value": {
+      "depends": [
+        "a61e2c22-5687-45ea-b4de-334277e23958"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a61e2c22-5687-45ea-b4de-334277e23958@f9941": {
+    "url": "db://assets/res/ui/wordnode/whitepaper.png@f9941",
+    "value": {
+      "depends": [
+        "a61e2c22-5687-45ea-b4de-334277e23958@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "667c8e69-855b-4652-bde6-290ba8cc17f3": {
+    "url": "db://assets/script/ui/word.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "1a265cb8-f76e-409f-a5b1-76fc80bdcc04": {
+    "url": "db://assets/res/Excel/歌词.csv",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "17dbd477-b854-4362-bb6f-be59a460fd4a": {
+    "url": "db://assets/res/ui/wordnode/2.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "17dbd477-b854-4362-bb6f-be59a460fd4a@6c48a": {
+    "url": "db://assets/res/ui/wordnode/2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "17dbd477-b854-4362-bb6f-be59a460fd4a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c": {
+    "url": "db://assets/res/ui/wordnode/1.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2": {
+    "url": "db://assets/res/ui/wordnode/3.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3971c476-168c-48ca-91d1-1ec7baadd8f9": {
+    "url": "db://assets/res/ui/wordnode/4.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8f91121a-4970-41ee-9f37-0c7264c2adc5": {
+    "url": "db://assets/res/ui/wordnode/6.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2@6c48a": {
+    "url": "db://assets/res/ui/wordnode/3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c@6c48a": {
+    "url": "db://assets/res/ui/wordnode/1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3971c476-168c-48ca-91d1-1ec7baadd8f9@6c48a": {
+    "url": "db://assets/res/ui/wordnode/4.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3971c476-168c-48ca-91d1-1ec7baadd8f9"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8f91121a-4970-41ee-9f37-0c7264c2adc5@6c48a": {
+    "url": "db://assets/res/ui/wordnode/6.jpg@6c48a",
+    "value": {
+      "depends": [
+        "8f91121a-4970-41ee-9f37-0c7264c2adc5"
+      ]
+    },
+    "versionCode": 0
+  },
+  "17dbd477-b854-4362-bb6f-be59a460fd4a@f9941": {
+    "url": "db://assets/res/ui/wordnode/2.jpg@f9941",
+    "value": {
+      "depends": [
+        "17dbd477-b854-4362-bb6f-be59a460fd4a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2@f9941": {
+    "url": "db://assets/res/ui/wordnode/3.jpg@f9941",
+    "value": {
+      "depends": [
+        "e9ca2a75-0c21-464b-9ce5-8b440f8cc5d2@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "10102eea-0961-474e-9255-b6c7e520228e": {
+    "url": "db://assets/res/ui/wordnode/7.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1484f5fa-3434-41f5-9a10-254945d59110": {
+    "url": "db://assets/res/ui/wordnode/5.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3971c476-168c-48ca-91d1-1ec7baadd8f9@f9941": {
+    "url": "db://assets/res/ui/wordnode/4.jpg@f9941",
+    "value": {
+      "depends": [
+        "3971c476-168c-48ca-91d1-1ec7baadd8f9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c@f9941": {
+    "url": "db://assets/res/ui/wordnode/1.jpg@f9941",
+    "value": {
+      "depends": [
+        "2ecddcfb-4ca6-4ea4-a0db-c38aee46561c@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8f91121a-4970-41ee-9f37-0c7264c2adc5@f9941": {
+    "url": "db://assets/res/ui/wordnode/6.jpg@f9941",
+    "value": {
+      "depends": [
+        "8f91121a-4970-41ee-9f37-0c7264c2adc5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "10102eea-0961-474e-9255-b6c7e520228e@6c48a": {
+    "url": "db://assets/res/ui/wordnode/7.jpg@6c48a",
+    "value": {
+      "depends": [
+        "10102eea-0961-474e-9255-b6c7e520228e"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1484f5fa-3434-41f5-9a10-254945d59110@6c48a": {
+    "url": "db://assets/res/ui/wordnode/5.jpg@6c48a",
+    "value": {
+      "depends": [
+        "1484f5fa-3434-41f5-9a10-254945d59110"
+      ]
+    },
+    "versionCode": 0
+  },
+  "10102eea-0961-474e-9255-b6c7e520228e@f9941": {
+    "url": "db://assets/res/ui/wordnode/7.jpg@f9941",
+    "value": {
+      "depends": [
+        "10102eea-0961-474e-9255-b6c7e520228e@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1484f5fa-3434-41f5-9a10-254945d59110@f9941": {
+    "url": "db://assets/res/ui/wordnode/5.jpg@f9941",
+    "value": {
+      "depends": [
+        "1484f5fa-3434-41f5-9a10-254945d59110@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "42d8258e-a5b1-4ecd-8129-7f9b96918fb2": {
+    "url": "db://assets/res/ui/wordnode/8.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "42d8258e-a5b1-4ecd-8129-7f9b96918fb2@6c48a": {
+    "url": "db://assets/res/ui/wordnode/8.jpg@6c48a",
+    "value": {
+      "depends": [
+        "42d8258e-a5b1-4ecd-8129-7f9b96918fb2"
+      ]
+    },
+    "versionCode": 0
+  },
+  "42d8258e-a5b1-4ecd-8129-7f9b96918fb2@f9941": {
+    "url": "db://assets/res/ui/wordnode/8.jpg@f9941",
+    "value": {
+      "depends": [
+        "42d8258e-a5b1-4ecd-8129-7f9b96918fb2@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ed16b894-cac0-4b89-ac3f-12a246ff8cae": {
+    "url": "db://assets/res/audio/1.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "54dcb96e-8143-45a1-95e3-1ca6baa65e0c": {
+    "url": "db://assets/res/audio/10.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "0623630e-f71f-4a70-a257-3f201cd7e934": {
+    "url": "db://assets/res/audio/15.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "5434f272-80bb-479e-b6bf-9af39babf6d8": {
+    "url": "db://assets/res/audio/16.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "7ec855f1-e5c9-4eab-ae0d-1ebb1fa917dc": {
+    "url": "db://assets/res/audio/17.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4f225f7d-b586-4237-8b25-8a2d40f938e5": {
+    "url": "db://assets/res/audio/18.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8d67feaf-6b1a-41f3-ace3-9097563edd35": {
+    "url": "db://assets/res/audio/19.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "fcc93361-cbc8-48ff-b0fc-dd5e0774eb44": {
+    "url": "db://assets/res/audio/2.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "aacd6641-2532-4ecc-bf0d-e7e7b61f79e2": {
+    "url": "db://assets/res/audio/20.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4c9766fd-8bd6-411a-8487-876f3e9619e4": {
+    "url": "db://assets/res/audio/21.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d88d17ba-a7e1-47b8-9a3e-d4fce6d1dd12": {
+    "url": "db://assets/res/audio/3.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "cc250452-ceb8-4a20-b637-d64ecb7e78e3": {
+    "url": "db://assets/res/audio/4.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "03601434-7aeb-4b86-a6f1-c78a762b12e0": {
+    "url": "db://assets/res/audio/5.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "27709f99-7479-4a0f-b6fb-655c6dbe707c": {
+    "url": "db://assets/res/audio/7.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3a8e0b5a-2e24-47e9-ae1c-0429f86bb6b1": {
+    "url": "db://assets/res/audio/8.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4302abbc-76ed-4dfb-b216-e57d79567e40": {
+    "url": "db://assets/res/audio/9.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "38f340b4-33af-4456-afae-3123344158d2": {
+    "url": "db://assets/res/model/key1.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e0826297-6c09-474a-96bd-cb88c1fd69f7": {
+    "url": "db://assets/res/model/key15.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "311a6857-5d05-4884-8a5f-19312aa8d2aa": {
+    "url": "db://assets/res/model/key16.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e4b9d439-aa48-43c9-a617-f343907554a1": {
+    "url": "db://assets/res/model/key17.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "25336c29-ae20-4a5c-8afb-112acc038f66": {
+    "url": "db://assets/res/model/key18.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e4b9d439-aa48-43c9-a617-f343907554a1@6c48a": {
+    "url": "db://assets/res/model/key17.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e4b9d439-aa48-43c9-a617-f343907554a1"
+      ]
+    },
+    "versionCode": 0
+  },
+  "311a6857-5d05-4884-8a5f-19312aa8d2aa@6c48a": {
+    "url": "db://assets/res/model/key16.jpg@6c48a",
+    "value": {
+      "depends": [
+        "311a6857-5d05-4884-8a5f-19312aa8d2aa"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e0826297-6c09-474a-96bd-cb88c1fd69f7@6c48a": {
+    "url": "db://assets/res/model/key15.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e0826297-6c09-474a-96bd-cb88c1fd69f7"
+      ]
+    },
+    "versionCode": 0
+  },
+  "38f340b4-33af-4456-afae-3123344158d2@6c48a": {
+    "url": "db://assets/res/model/key1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "38f340b4-33af-4456-afae-3123344158d2"
+      ]
+    },
+    "versionCode": 0
+  },
+  "25336c29-ae20-4a5c-8afb-112acc038f66@6c48a": {
+    "url": "db://assets/res/model/key18.jpg@6c48a",
+    "value": {
+      "depends": [
+        "25336c29-ae20-4a5c-8afb-112acc038f66"
+      ]
+    },
+    "versionCode": 0
+  },
+  "311a6857-5d05-4884-8a5f-19312aa8d2aa@f9941": {
+    "url": "db://assets/res/model/key16.jpg@f9941",
+    "value": {
+      "depends": [
+        "311a6857-5d05-4884-8a5f-19312aa8d2aa@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e1aca0f3-be0e-4248-8947-22cedc106213": {
+    "url": "db://assets/res/model/key19.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "38f340b4-33af-4456-afae-3123344158d2@f9941": {
+    "url": "db://assets/res/model/key1.jpg@f9941",
+    "value": {
+      "depends": [
+        "38f340b4-33af-4456-afae-3123344158d2@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e0826297-6c09-474a-96bd-cb88c1fd69f7@f9941": {
+    "url": "db://assets/res/model/key15.jpg@f9941",
+    "value": {
+      "depends": [
+        "e0826297-6c09-474a-96bd-cb88c1fd69f7@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e0f95caf-cf57-48fd-a795-9fa1636ff0e5": {
+    "url": "db://assets/res/model/key2.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "30e7f9b2-90b3-47d0-9b3b-659eb6100367": {
+    "url": "db://assets/res/model/key20.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e4b9d439-aa48-43c9-a617-f343907554a1@f9941": {
+    "url": "db://assets/res/model/key17.jpg@f9941",
+    "value": {
+      "depends": [
+        "e4b9d439-aa48-43c9-a617-f343907554a1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "406b9da2-98bb-4db0-938d-cfd08f21d68b": {
+    "url": "db://assets/res/model/key21.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "25336c29-ae20-4a5c-8afb-112acc038f66@f9941": {
+    "url": "db://assets/res/model/key18.jpg@f9941",
+    "value": {
+      "depends": [
+        "25336c29-ae20-4a5c-8afb-112acc038f66@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1ddfd69e-0999-4d4c-92a3-9409320c2837": {
+    "url": "db://assets/res/model/key3.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e0f95caf-cf57-48fd-a795-9fa1636ff0e5@6c48a": {
+    "url": "db://assets/res/model/key2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e0f95caf-cf57-48fd-a795-9fa1636ff0e5"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e1aca0f3-be0e-4248-8947-22cedc106213@6c48a": {
+    "url": "db://assets/res/model/key19.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e1aca0f3-be0e-4248-8947-22cedc106213"
+      ]
+    },
+    "versionCode": 0
+  },
+  "406b9da2-98bb-4db0-938d-cfd08f21d68b@6c48a": {
+    "url": "db://assets/res/model/key21.jpg@6c48a",
+    "value": {
+      "depends": [
+        "406b9da2-98bb-4db0-938d-cfd08f21d68b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "30e7f9b2-90b3-47d0-9b3b-659eb6100367@6c48a": {
+    "url": "db://assets/res/model/key20.jpg@6c48a",
+    "value": {
+      "depends": [
+        "30e7f9b2-90b3-47d0-9b3b-659eb6100367"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e0f95caf-cf57-48fd-a795-9fa1636ff0e5@f9941": {
+    "url": "db://assets/res/model/key2.jpg@f9941",
+    "value": {
+      "depends": [
+        "e0f95caf-cf57-48fd-a795-9fa1636ff0e5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7533b0e7-05cd-4004-a911-312bb2fcf01b": {
+    "url": "db://assets/res/model/key4.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e1aca0f3-be0e-4248-8947-22cedc106213@f9941": {
+    "url": "db://assets/res/model/key19.jpg@f9941",
+    "value": {
+      "depends": [
+        "e1aca0f3-be0e-4248-8947-22cedc106213@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c3bfc4d9-1ce3-42c7-b86d-32667c59732f": {
+    "url": "db://assets/res/model/key5.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "406b9da2-98bb-4db0-938d-cfd08f21d68b@f9941": {
+    "url": "db://assets/res/model/key21.jpg@f9941",
+    "value": {
+      "depends": [
+        "406b9da2-98bb-4db0-938d-cfd08f21d68b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3210cdd5-d447-42c9-80c2-159729b14cbd": {
+    "url": "db://assets/res/model/key7.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1ddfd69e-0999-4d4c-92a3-9409320c2837@6c48a": {
+    "url": "db://assets/res/model/key3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "1ddfd69e-0999-4d4c-92a3-9409320c2837"
+      ]
+    },
+    "versionCode": 0
+  },
+  "30e7f9b2-90b3-47d0-9b3b-659eb6100367@f9941": {
+    "url": "db://assets/res/model/key20.jpg@f9941",
+    "value": {
+      "depends": [
+        "30e7f9b2-90b3-47d0-9b3b-659eb6100367@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1ddfd69e-0999-4d4c-92a3-9409320c2837@f9941": {
+    "url": "db://assets/res/model/key3.jpg@f9941",
+    "value": {
+      "depends": [
+        "1ddfd69e-0999-4d4c-92a3-9409320c2837@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7533b0e7-05cd-4004-a911-312bb2fcf01b@6c48a": {
+    "url": "db://assets/res/model/key4.jpg@6c48a",
+    "value": {
+      "depends": [
+        "7533b0e7-05cd-4004-a911-312bb2fcf01b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c3bfc4d9-1ce3-42c7-b86d-32667c59732f@6c48a": {
+    "url": "db://assets/res/model/key5.jpg@6c48a",
+    "value": {
+      "depends": [
+        "c3bfc4d9-1ce3-42c7-b86d-32667c59732f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7533b0e7-05cd-4004-a911-312bb2fcf01b@f9941": {
+    "url": "db://assets/res/model/key4.jpg@f9941",
+    "value": {
+      "depends": [
+        "7533b0e7-05cd-4004-a911-312bb2fcf01b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c3bfc4d9-1ce3-42c7-b86d-32667c59732f@f9941": {
+    "url": "db://assets/res/model/key5.jpg@f9941",
+    "value": {
+      "depends": [
+        "c3bfc4d9-1ce3-42c7-b86d-32667c59732f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3210cdd5-d447-42c9-80c2-159729b14cbd@6c48a": {
+    "url": "db://assets/res/model/key7.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3210cdd5-d447-42c9-80c2-159729b14cbd"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3210cdd5-d447-42c9-80c2-159729b14cbd@f9941": {
+    "url": "db://assets/res/model/key7.jpg@f9941",
+    "value": {
+      "depends": [
+        "3210cdd5-d447-42c9-80c2-159729b14cbd@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0952fee4-25dd-4775-a894-9a6c913fc715": {
+    "url": "db://assets/res/ui/wordnode/greenpaper.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "0952fee4-25dd-4775-a894-9a6c913fc715@6c48a": {
+    "url": "db://assets/res/ui/wordnode/greenpaper.png@6c48a",
+    "value": {
+      "depends": [
+        "0952fee4-25dd-4775-a894-9a6c913fc715"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0952fee4-25dd-4775-a894-9a6c913fc715@f9941": {
+    "url": "db://assets/res/ui/wordnode/greenpaper.png@f9941",
+    "value": {
+      "depends": [
+        "0952fee4-25dd-4775-a894-9a6c913fc715@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3": {
+    "url": "db://assets/res/ui/wordnode/redpaper.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3@6c48a": {
+    "url": "db://assets/res/ui/wordnode/redpaper.png@6c48a",
+    "value": {
+      "depends": [
+        "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3"
+      ]
+    },
+    "versionCode": 0
+  },
+  "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3@f9941": {
+    "url": "db://assets/res/ui/wordnode/redpaper.png@f9941",
+    "value": {
+      "depends": [
+        "986fb0f5-afc1-4da3-a5cc-2fcb8d3379d3@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cade6b5e-2fe8-4dda-a3b6-9367435a8289": {
+    "url": "db://assets/res/ui/wordnode/15.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1780994e-36c3-480b-9536-09c89f8f608d": {
+    "url": "db://assets/res/ui/wordnode/16.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ea9c9dc9-8182-4a82-99cd-bc542fb3e880": {
+    "url": "db://assets/res/ui/wordnode/17.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "cf66cffa-1790-415f-a65a-b170c6dbe1ce": {
+    "url": "db://assets/res/ui/wordnode/18.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a8292d63-5388-47a0-a0ed-4c95512a5709": {
+    "url": "db://assets/res/ui/wordnode/19.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a8292d63-5388-47a0-a0ed-4c95512a5709@6c48a": {
+    "url": "db://assets/res/ui/wordnode/19.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a8292d63-5388-47a0-a0ed-4c95512a5709"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ea9c9dc9-8182-4a82-99cd-bc542fb3e880@6c48a": {
+    "url": "db://assets/res/ui/wordnode/17.jpg@6c48a",
+    "value": {
+      "depends": [
+        "ea9c9dc9-8182-4a82-99cd-bc542fb3e880"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1780994e-36c3-480b-9536-09c89f8f608d@6c48a": {
+    "url": "db://assets/res/ui/wordnode/16.jpg@6c48a",
+    "value": {
+      "depends": [
+        "1780994e-36c3-480b-9536-09c89f8f608d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cade6b5e-2fe8-4dda-a3b6-9367435a8289@6c48a": {
+    "url": "db://assets/res/ui/wordnode/15.jpg@6c48a",
+    "value": {
+      "depends": [
+        "cade6b5e-2fe8-4dda-a3b6-9367435a8289"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cf66cffa-1790-415f-a65a-b170c6dbe1ce@6c48a": {
+    "url": "db://assets/res/ui/wordnode/18.jpg@6c48a",
+    "value": {
+      "depends": [
+        "cf66cffa-1790-415f-a65a-b170c6dbe1ce"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a8292d63-5388-47a0-a0ed-4c95512a5709@f9941": {
+    "url": "db://assets/res/ui/wordnode/19.jpg@f9941",
+    "value": {
+      "depends": [
+        "a8292d63-5388-47a0-a0ed-4c95512a5709@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f5f00f3-d19a-41bd-829d-910fb26d5a9f": {
+    "url": "db://assets/res/ui/wordnode/20.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "cade6b5e-2fe8-4dda-a3b6-9367435a8289@f9941": {
+    "url": "db://assets/res/ui/wordnode/15.jpg@f9941",
+    "value": {
+      "depends": [
+        "cade6b5e-2fe8-4dda-a3b6-9367435a8289@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cf66cffa-1790-415f-a65a-b170c6dbe1ce@f9941": {
+    "url": "db://assets/res/ui/wordnode/18.jpg@f9941",
+    "value": {
+      "depends": [
+        "cf66cffa-1790-415f-a65a-b170c6dbe1ce@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "02e040ba-bfa3-4b58-9321-20ef5a99a5fb": {
+    "url": "db://assets/res/ui/wordnode/21.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1780994e-36c3-480b-9536-09c89f8f608d@f9941": {
+    "url": "db://assets/res/ui/wordnode/16.jpg@f9941",
+    "value": {
+      "depends": [
+        "1780994e-36c3-480b-9536-09c89f8f608d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ea9c9dc9-8182-4a82-99cd-bc542fb3e880@f9941": {
+    "url": "db://assets/res/ui/wordnode/17.jpg@f9941",
+    "value": {
+      "depends": [
+        "ea9c9dc9-8182-4a82-99cd-bc542fb3e880@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f5f00f3-d19a-41bd-829d-910fb26d5a9f@6c48a": {
+    "url": "db://assets/res/ui/wordnode/20.jpg@6c48a",
+    "value": {
+      "depends": [
+        "4f5f00f3-d19a-41bd-829d-910fb26d5a9f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "02e040ba-bfa3-4b58-9321-20ef5a99a5fb@6c48a": {
+    "url": "db://assets/res/ui/wordnode/21.jpg@6c48a",
+    "value": {
+      "depends": [
+        "02e040ba-bfa3-4b58-9321-20ef5a99a5fb"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f5f00f3-d19a-41bd-829d-910fb26d5a9f@f9941": {
+    "url": "db://assets/res/ui/wordnode/20.jpg@f9941",
+    "value": {
+      "depends": [
+        "4f5f00f3-d19a-41bd-829d-910fb26d5a9f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "02e040ba-bfa3-4b58-9321-20ef5a99a5fb@f9941": {
+    "url": "db://assets/res/ui/wordnode/21.jpg@f9941",
+    "value": {
+      "depends": [
+        "02e040ba-bfa3-4b58-9321-20ef5a99a5fb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "03cf077a-2281-4aad-a36a-48f9cc364468": {
+    "url": "db://assets/res/audio/error1.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b085ecdd-3c3e-491e-8694-a8fee6d068b8": {
+    "url": "db://assets/res/scene/songselect.scene",
+    "value": {
+      "depends": [
+        "b085ecdd-3c3e-491e-8694-a8fee6d068b8",
+        "56a3170d-4e1c-4110-8233-4254f13eef6e@f9941",
+        "fd6d9ae6-0f9c-4df1-ad18-c64196ab11b6"
+      ],
+      "dependScripts": [
+        "0fe6dc1c-554e-4862-b29b-e4c83c16e0d7"
+      ]
+    },
+    "versionCode": 0
+  },
+  "fd6d9ae6-0f9c-4df1-ad18-c64196ab11b6": {
+    "url": "db://assets/res/prefab/songlist.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "4412ec40-0ae7-4154-9f49-f90c6b76e15b": {
+    "url": "db://assets/script/ui/songlist.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "0fe6dc1c-554e-4862-b29b-e4c83c16e0d7": {
+    "url": "db://assets/script/ui/bglist.ts",
+    "value": {},
+    "versionCode": 0
+  }
+}

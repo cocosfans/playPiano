@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "version": "Windows 10 Home China"
+    },
+    "sceneListMap": {
+        "c8191e62-4f8a-44a6-9cce-7f8d1d0a7daa": "D:\\cocos\\PlayPiano\\assets\\res\\scene\\chellenge.scene",
+        "b085ecdd-3c3e-491e-8694-a8fee6d068b8": "D:\\cocos\\PlayPiano\\assets\\res\\scene\\songselect.scene"
+    },
+    "deviceMd5": "1b9997ed8dd707e5b47837aa810948a3"
+}
