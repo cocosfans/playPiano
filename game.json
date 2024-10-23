@@ -1,0 +1,14 @@
+{
+    "deviceOrientation": "landscapeRight",
+    "networkTimeout": {
+        "request": 5000,
+        "connectSocket": 5000,
+        "uploadFile": 5000,
+        "downloadFile": 500000
+    }
+"dependencies": {
+
+"@douyin-microapp/typings": "latest"
+
+}
+}
